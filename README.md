@@ -1,1 +1,1 @@
-# .gitigore
+# .gitignore
